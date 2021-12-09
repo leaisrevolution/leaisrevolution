@@ -13,7 +13,9 @@
  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-the-badge&logo=jquery&logoColor=white"> &nbsp
  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-the-badge&logo=react&logoColor=black"> &nbsp
  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-the-badge&logo=bootstrap&logoColor=white"> &nbsp
- <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-the-badge&logo=firebase&logoColor=white">
+ <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-the-badge&logo=firebase&logoColor=white">&nbsp
+ <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/> &nbsp
+
 
 </li>
 </ul>
