@@ -21,8 +21,8 @@
   <li> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></li> 
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-the-badge&logo=mariaDB&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-the-badge&logo=oracle&logoColor=white"></li> 
 </ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=dracula)
