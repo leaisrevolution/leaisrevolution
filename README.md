@@ -31,6 +31,9 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-the-badge&logo=oracle&logoColor=white"></li> 
 </ul>
 
+<br>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=dracula)
 
 <!--
