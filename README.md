@@ -16,6 +16,7 @@
  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-the-badge&logo=bootstrap&logoColor=white"> &nbsp
  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-the-badge&logo=firebase&logoColor=white">&nbsp
  <img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=Sass&logoColor=white"/> &nbsp
+ <img alt="styled-components" src ="https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=black"/> &nbsp
 
 
 </li>
