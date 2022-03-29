@@ -7,7 +7,6 @@
 
 <h3><b>Tech Stack</b></h3>
 <p> front-end </p>
-<ul>
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
 <img alt="styled-components" src ="https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=black"/>
@@ -19,8 +18,7 @@
 <img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FCA121.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="Whimsical" src ="https://img.shields.io/badge/Whimsical-730FC3.svg?&style=for-the-badge&logo=Whimsical&logoColor=white"/>
-</li>
-</ul>
+
   
 <!-- <p> back-end </p>
 <ul>
