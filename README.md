@@ -8,21 +8,21 @@
 <h3><b>Tech Stack</b></h3>
 <p> front-end </p>
 <ul>
-  <li> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
- <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-the-badge&logo=jquery&logoColor=white"> &nbsp
- <img src="https://img.shields.io/badge/react-61DAFB?style=flat-the-badge&logo=react&logoColor=black"> &nbsp
- <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-the-badge&logo=bootstrap&logoColor=white"> &nbsp
- <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-the-badge&logo=firebase&logoColor=white">&nbsp
- <img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=Sass&logoColor=white"/> &nbsp
- <img alt="styled-components" src ="https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=black"/> &nbsp
-
-
+<img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
+<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
+<img alt="styled-components" src ="https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=black"/>
+<img alt="MUI" src ="https://img.shields.io/badge/MUI-007FFF.svg?&style=for-the-badge&logo=MUI&logoColor=white"/>
+<img alt="Axios" src ="https://img.shields.io/badge/Axios-671DDF.svg?&style=for-the-badge&logo=Axios&logoColor=white"/>
+<img alt="React-Router" src ="https://img.shields.io/badge/React-Router-CA4245.svg?&style=for-the-badge&logo=React-Router&logoColor=white"/>
+<img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
+<img alt="Yarn" src ="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=Yarn&logoColor=white"/>
+<img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FCA121.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>
+<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img alt="Whimsical" src ="https://img.shields.io/badge/Whimsical-730FC3.svg?&style=for-the-badge&logo=Whimsical&logoColor=white"/>
 </li>
 </ul>
   
-<p> back-end </p>
+<!-- <p> back-end </p>
 <ul>
   <li> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> &nbsp
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-the-badge&logo=oracle&logoColor=white"></li> 
 </ul>
 
-<br>
+<br> -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=dracula)
