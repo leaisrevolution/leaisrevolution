@@ -5,7 +5,7 @@
 본질을 깊게 고민하고, 다양하고 유연한 사고방식으로 대응하는 <br>
 예비 개발자 Lea입니다. </h2>
  
-<h3>Tech Stack <b>front-end</b> </h3>
+<h3>Tech Stack [front-end] </h3>
 <div>
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
