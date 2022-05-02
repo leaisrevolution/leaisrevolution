@@ -18,10 +18,19 @@
 </div>
 
 
+<div align="left">
+
+ <a href="https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=react&include_all_commits&hide_border=true">
+    <img width="440" src="https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=react&include_all_commits&hide_border=true" alt="jk's-readme-stats" />
+  </a>
+
+
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leaisrevolution&layout=compact&exclude_repo=seul-kok&langs_count=8&theme=react&hide_border=true">
     <img width="368" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaisrevolution&layout=compact&exclude_repo=seul-kok&langs_count=8&theme=react&hide_border=true" alt="most-used-languages" />
   </a>
+  
+</div>
   
   
   <a href="https://activity-graph.herokuapp.com/graph?username=leaisrevolution&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb">
