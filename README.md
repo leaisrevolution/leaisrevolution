@@ -16,6 +16,11 @@
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="Whimsical" src ="https://img.shields.io/badge/Whimsical-730FC3.svg?&style=for-the-badge&logo=Whimsical&logoColor=white"/>
 </div>
+
+  <a href="https://activity-graph.herokuapp.com/graph?username=leaisrevolution&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb">
+    <img width="810" src="https://activity-graph.herokuapp.com/graph?username=leaisrevolution&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb" alt="activity-graph" />
+  </a>
+  
   
 <!-- <p> back-end </p>
 <ul>
