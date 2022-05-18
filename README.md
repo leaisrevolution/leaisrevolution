@@ -5,6 +5,7 @@
 <h3>Tech Stack [front-end] </h3>
 <div>
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
+<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
 <img alt="styled-components" src ="https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=black"/>
 <img alt="MUI" src ="https://img.shields.io/badge/MUI-007FFF.svg?&style=for-the-badge&logo=MUI&logoColor=white"/>
 <img alt="Axios" src ="https://img.shields.io/badge/Axios-671DDF.svg?&style=for-the-badge&logo=Axios&logoColor=white"/>
@@ -24,7 +25,6 @@
   </a>
 
 
-  </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leaisrevolution&layout=compact&exclude_repo=seul-kok&langs_count=8&theme=react&hide_border=true">
     <img width="368" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaisrevolution&layout=compact&exclude_repo=seul-kok&langs_count=8&theme=react&hide_border=true" alt="most-used-languages" />
   </a>
