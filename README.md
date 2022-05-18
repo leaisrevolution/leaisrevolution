@@ -26,7 +26,7 @@
 
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leaisrevolution&layout=compact&exclude_repo=seul-kok&langs_count=8&theme=react&hide_border=true">
-    <img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaisrevolution&layout=compact&exclude_repo=seul-kok&langs_count=8&theme=react&hide_border=true" alt="most-used-languages" />
+    <img width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaisrevolution&layout=compact&exclude_repo=seul-kok&langs_count=8&theme=react&hide_border=true" alt="most-used-languages" />
   </a>
   
 </div>
