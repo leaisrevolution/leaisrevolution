@@ -2,7 +2,7 @@
 <h2> 안녕하세요.<br>
 본질을 깊게 고민하고, 다양하고 유연한 사고방식으로 대응하는 예비 개발자 Lea입니다. </h2> -->
  
-<h3>Tech Stack [front-end] </h3>
+<!-- <h3>Tech Stack [front-end] </h3>
 <div>
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
@@ -16,7 +16,7 @@
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="Whimsical" src ="https://img.shields.io/badge/Whimsical-730FC3.svg?&style=for-the-badge&logo=Whimsical&logoColor=white"/>
 </div>
-
+ -->
 
 <div align="left">
 
