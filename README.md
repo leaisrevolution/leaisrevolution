@@ -21,12 +21,12 @@
 <div align="left">
 
  <a href="https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=react&include_all_commits&hide_border=true">
-    <img width="440" src="https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=react&include_all_commits&hide_border=true" alt="jk's-readme-stats" />
+    <img width="454" src="https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=react&include_all_commits&hide_border=true" alt="jk's-readme-stats" />
   </a>
 
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leaisrevolution&layout=compact&exclude_repo=seul-kok&langs_count=8&theme=react&hide_border=true">
-    <img width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaisrevolution&layout=compact&exclude_repo=seul-kok&langs_count=8&theme=react&hide_border=true" alt="most-used-languages" />
+    <img width="358" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaisrevolution&layout=compact&exclude_repo=seul-kok&langs_count=8&theme=react&hide_border=true" alt="most-used-languages" />
   </a>
   
 </div>
