@@ -5,7 +5,8 @@
 <h3>Tech Stack [front-end] </h3>
 <div>
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
-<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
+<a href="https://github.com/leaisrevolution/github-stats-react-theme">
+    <img width="358" src="https://github.com/leaisrevolution/github-stats-react-theme/blob/main/generated/languages.svg" alt="most-used-languages" />
 <img alt="styled-components" src ="https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=black"/>
 <img alt="MUI" src ="https://img.shields.io/badge/MUI-007FFF.svg?&style=for-the-badge&logo=MUI&logoColor=white"/>
 <img alt="Axios" src ="https://img.shields.io/badge/Axios-671DDF.svg?&style=for-the-badge&logo=Axios&logoColor=white"/>
