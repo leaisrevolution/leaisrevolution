@@ -21,7 +21,7 @@
 <div align="left">
 
  <a href="https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=react&include_all_commits&hide_border=true">
-    <img width="454" src="https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=react&include_all_commits&hide_border=true" alt="jk's-readme-stats" />
+    <img width="454" src="https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=react&include_all_commits&hide_border=trueline_height=30" alt="jk's-readme-stats" />
   </a>
  
    </a>
