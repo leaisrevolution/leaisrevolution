@@ -23,6 +23,11 @@
  <a href="https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=react&include_all_commits&hide_border=true">
     <img width="454" src="https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=react&include_all_commits&hide_border=true" alt="jk's-readme-stats" />
   </a>
+ 
+   </a>
+  <a href="https://github.com/leaisrevolution/github-stats-react-theme">
+    <img width="358" src="https://github.com/leaisrevolution/github-stats-react-theme/blob/main/generated/languages.svg" alt="most-used-languages" />
+  </a>
 
 
 
