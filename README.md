@@ -30,7 +30,7 @@
   </a>
 
   <a href="https://activity-graph.herokuapp.com/graph?username=leaisrevolution&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb">
-    <img width="812" src="https://activity-graph.herokuapp.com/graph?username=leaisrevolution&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb" alt="activity-graph" />
+    <img width="720" src="https://activity-graph.herokuapp.com/graph?username=leaisrevolution&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb" alt="activity-graph" />
   </a>
   
 
