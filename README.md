@@ -21,12 +21,12 @@
 <div align="left">
 
  <a href="https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=react&include_all_commits&hide_border=true">
-    <img width="454" src="https://github-readme-stats.vercel.app/api?username=leaisrevolution&show_icons=true&theme=react&include_all_commits&hide_border=trueline_height=30" alt="jk's-readme-stats" />
+    <img src="https://raw.githubusercontent.com/leaisrevolution/github-stats-transparent/output/generated/overview.svg" alt="jk's-readme-stats" />
   </a>
  
    </a>
   <a href="https://github.com/leaisrevolution/github-stats-react-theme">
-    <img width="358" src="https://raw.githubusercontent.com/leaisrevolution/github-stats-transparent/output/generated/languages.svg" alt="most-used-languages" />
+    <img src="https://raw.githubusercontent.com/leaisrevolution/github-stats-transparent/output/generated/languages.svg" alt="most-used-languages" />
   </a>
 
   <a href="https://activity-graph.herokuapp.com/graph?username=leaisrevolution&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb">
