@@ -26,7 +26,7 @@
  
    </a>
   <a href="https://github.com/leaisrevolution/github-stats-react-theme">
-    <img width="358" src="https://github.com/leaisrevolution/github-stats-react-theme/blob/main/generated/languages.svg" alt="most-used-languages" />
+    <img width="358" src="https://raw.githubusercontent.com/leaisrevolution/github-stats-transparent/output/generated/languages.svg" alt="most-used-languages" />
   </a>
 
   <a href="https://activity-graph.herokuapp.com/graph?username=leaisrevolution&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb">
