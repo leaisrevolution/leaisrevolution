@@ -20,21 +20,7 @@
 </div>
  -->
 
-<div align="left">
 
-
- 
-   </a>
-  <a href="https://github.com/leaisrevolution/github-stats-react-theme">
-    <img src="https://raw.githubusercontent.com/leaisrevolution/github-stats-transparent/output/generated/languages.svg" alt="most-used-languages" />
-  </a>
-
-
-  
-
-
-  
-</div>
   
   
   
